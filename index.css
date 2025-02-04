@@ -79,3 +79,9 @@ section {
     margin-bottom: 10px;
   }
 }
+img {
+  width: 300px;
+  height: 250px;
+  border-radius: 10px;
+  transition: trasform 0.3s ease;
+}
