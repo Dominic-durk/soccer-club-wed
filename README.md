@@ -26,6 +26,10 @@ The purpose of this soccer club web application is to create an interactive plat
 - CSS
 - JavaScript
 
+## License
+MIT License
+
+
 ##Acknowledgments
 Thanks to the open-source community for contributing libraries and tools.
 Special thanks to Soccer Club for the inspiration behind this project.
