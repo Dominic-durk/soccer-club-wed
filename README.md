@@ -1,7 +1,7 @@
 # soccer-club-wed
-
-##Description
 Welcome to the official website for Soccer Club!.
+
+## Description
 Soccer Club Website link: https://github.com/Dominic-durk/soccer-club-wed
 Project Description: Soccer Club Website is a dynamic web application designed to manage and display key information for a soccer club, aimed at both fans and club members. The purpose of this website is to provide an easy-to-navigate interface where users can view:
                     Upcoming and past match schedules.
@@ -30,12 +30,12 @@ The purpose of this soccer club web application is to create an interactive plat
 MIT License
 
 
-##Acknowledgments
+## Acknowledge
 Thanks to the open-source community for contributing libraries and tools.
 Special thanks to Soccer Club for the inspiration behind this project.
 The clubs founder sir Dominic Gona
 
-##author
+## Author
 Dominic Gona
 
 
