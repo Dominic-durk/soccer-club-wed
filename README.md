@@ -10,9 +10,9 @@ By organizing all relevant information into one platform, the website enhances c
 Problem Solved
 Before this website, the club relied on separate platforms for managing match schedules, player data, and news. This web application consolidates all of that into one user-friendly platform, streamlining information sharing and improving engagement between the club and its members or supporters.
 The purpose of this soccer club web application is to create an interactive platform for soccer fans, players, and potential members to engage with the club.
-License
+#License
 Distributed under the MIT License. See the LICENSE file for more information.
-Acknowledgments
+#Acknowledgments
 Thanks to the open-source community for contributing libraries and tools.
 Special thanks to Soccer Club for the inspiration behind this project.
 The clubs founder sir Dominic Gona
